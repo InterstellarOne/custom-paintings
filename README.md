@@ -22,6 +22,7 @@ Be aware, these tiles can be rotated, so the red square indicates the direction 
 The final element that can appear in these templates is the double-sided arrow, which is the symbol for flipping the tile in the direction of the arrows. **↔** is horizontal, **↕** is vertical.
 ## 1x1
 [Template](https://github.com/InterstellarOne/custom-paintings/blob/main/1x1/1x1%20template.png?raw=true)
+
 This painting only includes one template, with a different format to the rest. Copy the top left painting tile to the left square, and the top right painting tile to the right square.s.
 
 1. Create a 16x16 painting. Drawing a frame will keep it in line with the built-in paintings and make it contrast better with the walls, but it isn't nessecary. Open both the painting and the template in an image editor such as GIMP or Photoshop. 
@@ -40,6 +41,7 @@ This painting only includes one template, with a different format to the rest. C
 10. Save the file. You should be done!
 ## 1x2
 [Templates](https://github.com/InterstellarOne/custom-paintings/tree/main/1x2)
+
 Nothing too special about this one, but make sure to flip the indicated tile horizontally, and pay attention to each tile's orientation.
 
 1. Create a 16x32 painting. Drawing a frame will keep it in line with the built-in paintings and make it contrast better with the walls, but it isn't nessecary. Open both the painting and the template in an image editor such as GIMP or Photoshop. 
@@ -58,6 +60,7 @@ Nothing too special about this one, but make sure to flip the indicated tile hor
 10. Save the file. You should be done!
 ## 2x1
 [Templates](https://github.com/InterstellarOne/custom-paintings/tree/main/2x2)
+
 Nothing too special about this one, but make sure to flip the indicated tile horizontally, and pay attention to each tile's orientation.
 
 1. Create a 32x16 painting. Drawing a frame will keep it in line with the built-in paintings and make it contrast better with the walls, but it isn't nessecary. Open both the painting and the template in an image editor such as GIMP or Photoshop. 
@@ -77,6 +80,7 @@ Nothing too special about this one, but make sure to flip the indicated tile hor
 
 ## 2x2
 [Templates](https://github.com/InterstellarOne/custom-paintings/tree/main/2x2)
+
 There's four templates for this one. The first template is for the top layer, the second one is the bottom layer, the third is the outside edges, and the fourth is the middle four. Pay attention and make sure to flip the indicated tile horizontally.
 
 1. Create a 32x32 painting. Drawing a frame will keep it in line with the built-in paintings and make it contrast better with the walls, but it isn't nessecary. Open both the painting and the template in an image editor such as GIMP or Photoshop. 
