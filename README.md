@@ -27,7 +27,7 @@ This painting only includes one template, with a different format to the rest. C
 
 1. Create a 16x16 painting. Drawing a frame will keep it in line with the built-in paintings and make it contrast better with the walls, but it isn't nessecary. Open both the painting and the template in an image editor such as GIMP or Photoshop. 
 2. Unzip the datapack if you haven't already, and navigate to ~/pk-more-paintings/data/pk_mo_pa/functions/core/place/1x1/.
-3. Go to https://mc-heads.net/ and enter your username and click Find. Then, copy the top line of the UUID. Go to https://mc-heads.net/minecraft/profile/YOUR-UUID-HERE, replacing the last part with your UUID. Leave this browser tab open.
+3. Go to https://minecraft.tools/en/skin.php?skin=YOUR-USERNAME, replacing the last part with your username. Leave this browser tab open.
 4. Choose whether you want to replace one of the paintings, or create a new one. If you want to replace one, follow the steps in 5a. If you want to add one, follow the steps in 5b. 
 
 5a. Open the painting's .mcfunction of your choice, denoted by a number.
@@ -38,7 +38,7 @@ This painting only includes one template, with a different format to the rest. C
 - 3. In the same file directory, open random.mcfunction, change the last number on line 4 to the number you set, (No leading zeros) and duplicate the last line of code below itself, replacing the numbers with the one that you set. Save the file.
 6. Copy the top two 8x8 painting tiles onto the indicated spaces on the template, then export as something like "painting top.png"
 7. Change your minecraft skin to the file you just exported. 
-8. Go your tab with mc-heads.net, which you would have opened in step 3. Reload the page, then copy everything inside of the quotation marks next to the **value** field.
+8. Go your tab with minecraft.tools, which you would have opened in step 3. Reload the page, then copy everything inside of the quotation marks next to the **value** field under _/give command to get his/her head with a fixed skin (1.13+)_.
 9. Paste this into the top **value** field in your .mcfunction, replacing what was already inside of the quotation marks.
 10. Repeat steps 5-8 for the bottom two squares. Replace "top" in the steps with "bottom" when nessecary.
 11. Save the file. You should be done! Now, just reload the datapack.
@@ -49,7 +49,7 @@ Nothing too special about this one, but make sure to flip the indicated tile hor
 
 1. Create a 16x32 painting. Drawing a frame will keep it in line with the built-in paintings and make it contrast better with the walls, but it isn't nessecary. Open both the painting and the template in an image editor such as GIMP or Photoshop. 
 2. Unzip the datapack if you haven't already, and navigate to ~/pk-more-paintings/data/pk_mo_pa/functions/core/place/1x2/.
-3. Go to https://mc-heads.net/ and enter your username and click Find. Then, copy the top line of the UUID. Go to https://mc-heads.net/minecraft/profile/YOUR-UUID-HERE, replacing the last part with your UUID. Leave this browser tab open.
+3. Go to https://minecraft.tools/en/skin.php?skin=YOUR-USERNAME, replacing the last part with your username. Leave this browser tab open.
 4. Choose whether you want to replace one of the paintings, or create a new one. If you want to replace one, follow the steps in 5a. If you want to add one, follow the steps in 5b. 
 
 5a. Open the painting's .mcfunction of your choice, denoted by a number.
@@ -60,7 +60,7 @@ Nothing too special about this one, but make sure to flip the indicated tile hor
 - 3. In the same file directory, open random.mcfunction, change the last number on line 4 to the number you set, (No leading zeros) and duplicate the last line of code below itself, replacing the numbers with the one that you set. Save the file.
 6. Copy the top four 8x8 painting tiles onto the indicated spaces on the template, then export.
 7. Change your minecraft skin to the file you just exported. 
-8. Go your tab with mc-heads.net, which you would have opened in step 3. Reload the page, then copy everything inside of the quotation marks next to the **value** field.
+8. Go your tab with minecraft.tools, which you would have opened in step 3. Reload the page, then copy everything inside of the quotation marks next to the **value** field under _/give command to get his/her head with a fixed skin (1.13+)_.
 9. Paste this into the top **value** field in your .mcfunction, replacing what was already inside of the quotation marks.
 10. Repeat steps 5-8 for the bottom four squares. Replace "top" in the steps with "bottom" when nessecary.
 11. Save the file. You should be done! Now, just reload the datapack.
@@ -71,7 +71,7 @@ Nothing too special about this one, but make sure to flip the indicated tile hor
 
 1. Create a 32x16 painting. Drawing a frame will keep it in line with the built-in paintings and make it contrast better with the walls, but it isn't nessecary. Open both the painting and the template in an image editor such as GIMP or Photoshop. 
 2. Unzip the datapack if you haven't already, and navigate to ~/pk-more-paintings/data/pk_mo_pa/functions/core/place/2x1/.
-3. Go to https://mc-heads.net/ and enter your username and click Find. Then, copy the top line of the UUID. Go to https://mc-heads.net/minecraft/profile/YOUR-UUID-HERE, replacing the last part with your UUID. Leave this browser tab open.
+3. Go to https://minecraft.tools/en/skin.php?skin=YOUR-USERNAME, replacing the last part with your username. Leave this browser tab open.
 4. Choose whether you want to replace one of the paintings, or create a new one. If you want to replace one, follow the steps in 5a. If you want to add one, follow the steps in 5b. 
 
 5a. Open the painting's .mcfunction of your choice, denoted by a number.
@@ -82,7 +82,7 @@ Nothing too special about this one, but make sure to flip the indicated tile hor
 - 3. In the same file directory, open random.mcfunction, change the last number on line 4 to the number you set, (No leading zeros) and duplicate the last line of code below itself, replacing the numbers with the one that you set. Save the file.
 6. Copy the top four 8x8 painting tiles onto the indicated spaces on the template, then export.
 7. Change your minecraft skin to the file you just exported. 
-8. Go your tab with mc-heads.net, which you would have opened in step 3. Reload the page, then copy everything inside of the quotation marks next to the **value** field.
+8. Go your tab with minecraft.tools, which you would have opened in step 3. Reload the page, then copy everything inside of the quotation marks next to the **value** field under _/give command to get his/her head with a fixed skin (1.13+)_.
 9. Paste this into the top **value** field in your .mcfunction, replacing what was already inside of the quotation marks.
 10. Repeat steps 5-8 for the bottom four squares. Replace "top" in the steps with "bottom" when nessecary.
 11. Save the file. You should be done! Now, just reload the datapack.
@@ -94,7 +94,7 @@ There's four templates for this one. The first template is for the top layer, th
 
 1. Create a 32x32 painting. Drawing a frame will keep it in line with the built-in paintings and make it contrast better with the walls, but it isn't nessecary. Open both the painting and the template in an image editor such as GIMP or Photoshop. 
 2. Unzip the datapack if you haven't already, and navigate to ~/pk-more-paintings/data/pk_mo_pa/functions/core/place/2x2/.
-3. Go to https://mc-heads.net/ and enter your username and click Find. Then, copy the top line of the UUID. Go to https://mc-heads.net/minecraft/profile/YOUR-UUID-HERE, replacing the last part with your UUID. Leave this browser tab open.
+3. Go to https://minecraft.tools/en/skin.php?skin=YOUR-USERNAME, replacing the last part with your username. Leave this browser tab open.
 4. Choose whether you want to replace one of the paintings, or create a new one. If you want to replace one, follow the steps in 5a. If you want to add one, follow the steps in 5b. 
 
 5a. Open the painting's .mcfunction of your choice, denoted by a number.
@@ -105,7 +105,7 @@ There's four templates for this one. The first template is for the top layer, th
 - 3. In the same file directory, open random.mcfunction, change the last number on line 4 to the number you set, (No leading zeros) and duplicate the last line of code below itself, replacing the numbers with the one that you set. Save the file.
 6. Copy the top four 8x8 painting tiles onto the indicated spaces on the template, then export.
 7. Change your minecraft skin to the file you just exported. 
-8. Go your tab with mc-heads.net, which you would have opened in step 3. Reload the page, then copy everything inside of the quotation marks next to the **value** field.
+8. Go your tab with minecraft.tools, which you would have opened in step 3. Reload the page, then copy everything inside of the quotation marks next to the **value** field under _/give command to get his/her head with a fixed skin (1.13+)_.
 9. Paste this into the top **value** field in your .mcfunction, replacing what was already inside of the quotation marks.
 10. Repeat steps 5-8 for the second set of four squares. Replace "top" in the steps with "bottom" when nessecary. Paste the value you obtain into the second **value** field.
 11. Repeat steps 5-8 for the two other sets of four squares, pasting the values you obtain into the third and forth steps respectively.
